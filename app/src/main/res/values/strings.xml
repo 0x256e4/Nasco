@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Nasco</string>
+    <string name="photo_button">Photo Button</string>
+    <string name="switch_camera">Switch Camera</string>
+    <string name="scan">scan</string>
+    <string name="riwayat">riwayat</string>
+    <string name="bahasa">bahasa</string>
+    <string name="scan_hewan">Scan Hewan</string>
+    <string name="lorem_25">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent elementum augue eu ullamcorper ultrices. Donec vel accumsan nunc. Nam dictum orci eu varius vulputate. Integer.</string>
+</resources>
